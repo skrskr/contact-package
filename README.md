@@ -50,3 +50,7 @@ Change admin mail in `contact.php`
 Customize contact us form in `vendor/contact/contact.blade.php` blade file.
 
 Customize contact us mail style in `vendor/contact/contact/email.blade.php` blade file.
+
+## Screenshot
+
+![screenshot image](./demo/demo.png)
