@@ -1,0 +1,19 @@
+{
+    "name": "skrskr/contact",
+    "description": "simple contact us message and send email to admin and save message",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mohamed Sakr",
+            "email": "mohamed1.sakr1996@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "SkrSkr\\Contact\\": "src/"
+        }
+    }
+}
