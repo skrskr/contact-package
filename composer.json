@@ -1,6 +1,6 @@
 {
     "name": "skrskr/contact",
-    "description": "simple contact us message and send email to admin and save message",
+    "description": "This package send mail to admin and save contact us message",
     "type": "library",
     "license": "MIT",
     "authors": [
